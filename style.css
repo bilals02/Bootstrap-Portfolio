@@ -1,0 +1,42 @@
+.CaptionName {
+    box-sizing: border-box;
+
+}
+
+
+.NameCaption {
+    background-color: #4aaaa5;
+    color:white;
+    display: flex;
+    width:7%;
+    height:5%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18%;
+    
+}
+
+.NavBar-fix{
+    margin-left: 40%;
+
+}
+
+.wrappingtext {
+    float: none;
+}
+
+.nav-container {
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footer {
+    border-top: 5px solid #4aaaa5;
+   
+}
+.footer-fix {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
